@@ -13,7 +13,7 @@ title                    : "En-Bi CHOI"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "- Tree-ring researcher / Stable oxygen isotope & Radiocarbon / Archaeology / Paleoclimate / Wood anatomy"
-url                      : https://En-Bi-CHOI.github.io # the base hostname & protocol for your site e.g. "https://En-Bi-CHOI.github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://En-Bi-CHOI.github.io" # the base hostname & protocol for your site e.g. "https://En-Bi-CHOI.github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "En-Bi"
   pronouns         : # example: "she/her"  
-  bio              : "- Tree-ring researcher <br>- Stable oxygen isotope & Radiocarbon <br>- Archaeology <br>- Paleoclimate <br>- Wood anatomy"
+  bio              : "- Tree-ring researcher <br>- Stable oxygen isotope <br>- Radiocarbon <br>- Archaeology <br>- Paleoclimate <br>- Wood anatomy"
   location         : "Republic of Korea"
   employer         : "Institute for Space-Earth <br>Environmental Research, <br>Nagoya University"
   uri              : # URL
