@@ -1,0 +1,9 @@
+/* 이미지 선택/드래그 억제 */
+img {
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  pointer-events: auto; /* 클릭/링크는 유지 */
+}
