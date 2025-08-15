@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Republic of Korea"
-  employer         : "Institute for Space-Earth Environmental Research, Nagoya University"
+  employer         : "Institute for Space-Earth <br>Environmental Research, <br>Nagoya University"
   uri              : # URL
   email            : "chenbi0715@gmail.com" 
 
